@@ -1,0 +1,2 @@
+spring.jpa.auditing.enabled=true
+spring.jpa.auditing.is-always-default-auditor=true
